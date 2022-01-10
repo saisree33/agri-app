@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="adobe_products">
+        <item>RedSoil</item>
+        <item>BlackSoil</item>
+        <item>AlluvialSoil</item>
+        <item>LateriteSoil</item>
+
+    </string-array>
+</resources>

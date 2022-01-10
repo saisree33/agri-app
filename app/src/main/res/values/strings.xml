@@ -1,0 +1,406 @@
+<resources>
+    <string name="app_name">Agripall</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Agripal</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_home">HOME</string>
+    <string name="action_help">HELP</string>
+    <string name="action_name">AGRIPAL</string>
+        <string name="article_title">Wheat</string>
+        <string name="article_subtitle">Description</string>
+        <string name="article_text">
+        <b><i>Name of the Crop:</i></b>- Wheat
+        \n
+        <b><i>Diseases:</i></b> <b><i>Fertilizers</i></b>
+        \n
+        1.Brown Rust -Strobilurin Fungicides
+        \n
+        2.Leaf Rust -TrialzolFungicides
+        \n
+        3.Barley Yellow dwarf virus -Synthetic Pyrethoid Insectides
+        \n
+        4.Common Bunt -Organomercory Fungicides
+        \n
+        <b><i>Management:</i></b>
+        \n
+        Wheat needs 12 to 15 inches of water to produce root crop.\n
+        It grows best when the temperatures are warm but not too hot.\n
+        It needs a lot of sunshine when the grains are filling.
+    </string>
+
+        <string name="article_paddy">Paddy</string>
+        <string name="article_pddescription">Description</string>
+        <string name="article_pdmanag">
+        <b><i>Name of the Crop:</i></b>- Paddy
+        \n
+        <b><i>Diseases:</i></b> <b><i>Fertilizers</i></b>
+        \n
+        1.Blast Disease -Trucylazole Propiconazole
+        \n
+        2.Brown Spot -Carbendazim
+        \n
+        3.False smut -Copper Oxychloride
+        \n
+        4.Stem Borer -Chloropyriphos
+        \n
+        <b><i>Management:</i></b>
+        \n
+        Paddy requires more water than any other crop.\n
+        It can be cultivated in those areas where minimum rainfall 115cm.\n
+        Regions having 175-300 cm of rainfall anually are more suitable.
+
+    </string>
+
+
+        <string name="article_maize">Maize</string>
+        <string name="article_mzdescription">Description</string>
+        <string name="article_mzmanag">
+        <b><i>Name of the Crop:</i></b>- Maize
+        \n
+        <b><i>Diseases:</i></b> <b><i>Fertilizers</i></b>
+        \n
+        1.Block Bundle disease and Late wilt - Capton 3kg/seed or Thiram seed treatment
+        \n
+        2.Charoal Rot -Carbendazim
+        \n
+        3.Common  Rust -Moncozeb 2.5g/litre
+        \n
+        4.Downy Mildcus -Chlorothalonil, mancozeb and fixed copper
+        \n
+        <b><i>Management:</i></b>
+        \n
+        A fully grown maize crop will need more water than a just planted maize crop.\n
+        The crop water need consists of transpiration by the plant and evaporation from the soil and plant surface.\n
+        Maize requires more than six hours of full sun each day.
+
+    </string>
+
+        <string name="article_cotton">Cotton</string>
+        <string name="article_ctdescription">Description</string>
+        <string name="article_ctmanag">
+        <b><i>Name of the Crop:</i></b>- Cotton
+        \n
+        <b><i>Diseases:</i></b> <b><i>Fertilizers</i></b>
+        \n
+        1.Alternative leaf spot -Foliar fungicides
+        \n
+        2.Black root rot -Hydrogen Peroxide
+        \n
+        3.Tobbaco Streak Virus -Blue Berry Phtoplasma
+        \n
+        <b><i>Management:</i></b>
+        \n
+        Long vegetation periods without frost (175 to 225 days).\n
+        Ample sunshine and fairly dry conditions..\n
+        A minimum of 500mm of water between germination and boll formation.
+
+    </string>
+        <string name="article_jowar">Jowar</string>
+        <string name="article_jowardescription">Description</string>
+        <string name="article_jowarmanag">
+        <b><i>Name of the Crop:</i></b>- Jowar
+        \n
+        <b><i>Diseases:</i></b> <b><i>Fertilizers</i></b>
+        \n
+        1.Sorchum Charcoal Rot -Fluorescent Pseudomonads
+        \n
+        2.Sorgumdowny Mildewu -Synthetic Fungicides
+        \n
+        3.Sorgam Anthracnose -Colletotrichum Graaminicola
+        \n
+        <b><i>Management:</i></b>
+        \n
+        Bascially Jowar is an tropical crop.\n
+        It thrives well at a temperature  between 25-30 degree celsius.\n
+        It requires rainfall about 40cm anually.
+
+    </string>
+
+        <string name="article_pul">Pulses</string>
+        <string name="article_puldescription">Description</string>
+        <string name="article_pulmanag">
+        <b><i>Name of the Crop:</i></b>- Pulses
+        \n
+        <b><i>Diseases:</i></b> <b><i>Fertilizers</i></b>
+        \n
+        1. Cercospora leaf spoy -Crop rotation and good sanitation
+        \n
+        2.Ergot -Cultivate cultivars that flower during dry weather
+        \n
+        3.Pearl Millet Downy Mildew -Metalaxyl-based fungicide seeds
+        \n
+        <b><i>Management:</i></b>
+        \n
+        Pulses thrive in areas of warm, dry climate.\n
+        It requires a temperature ranging  between 25-30 degree celsius.\n
+        It requires rainfall about 45cm anually.
+
+    </string>
+
+        <string name="article_mil">Millets</string>
+        <string name="article_mildescription">Description</string>
+        <string name="article_milmanag">
+        <b><i>Name of the Crop:</i></b>- Millets
+        \n
+        <b><i>Diseases:</i></b> <b><i>Fertilizers</i></b>
+        \n
+        1. Cercospora leaf spoy -Crop rotation and good sanitation
+        \n
+        2.Ergot -Cultivate cultivars that flower during dry weather
+        \n
+        3.Pearl Millet Downy Mildew -Metalaxyl-based fungicide seeds
+        \n
+        <b><i>Management:</i></b>
+        \n
+        Pulses thrive in areas of warm, dry climate.\n
+        It requires a temperature ranging  between 25-30 degree celsius.\n
+        It requires rainfall about 45cm anually.
+
+    </string>
+
+        <string name="article_sug">Sugarcane</string>
+        <string name="article_sugdescription">Description</string>
+        <string name="article_sugmanag">
+        <b><i>Name of the Crop:</i></b>- Sugarcane
+        \n
+        <b><i>Diseases:</i></b> <b><i>Fertilizers</i></b>
+        \n
+        1.Pest Termites -5% chlordine,dust wuth soil
+        \n
+        2.Early Shoot Borer -Destroy Egg masses,Avoid Ratooning
+        \n
+        3.Red Rot -Crop Rotation,Systemic Fungicide Beenomyl
+        \n
+        <b><i>Management:</i></b>
+        \n
+        Sugarcane grows in warm humid climatic conditions\n
+        It continues its growth until terminated by flowering.\n
+        The ideal temperature is 27 degree celsius.
+
+    </string>
+        <string name="article_sunflower">Sunflower</string>
+        <string name="article_sundescription">Description</string>
+        <string name="article_sunmanag">
+        <b><i>Name of the Crop:</i></b>- SunFlower
+        \n
+        <b><i>Diseases:</i></b> <b><i>Fertilizers</i></b>
+        \n
+        1.Downy Mildewu -Metalaxyxyl 6gm per kg seed
+        \n
+        2.Powdery Miledwu -Difenconazole 25 EC
+        \n
+        3.Ulternaria Leaf Spot,Carboxyl 75 WEP 2gm kg per seed
+        \n
+        <b><i>Management:</i></b>
+        \n
+        It is one of the most important oil\n seed crop.\n
+        It requires 500-750mm rainfall per annum.\n
+        The ideal temperature is 55-60 degree celsius.
+
+    </string>
+        <string name="article_tobacco">Tobacco</string>
+        <string name="article_tobdescription">Description</string>
+        <string name="article_tobmanag">
+        <b><i>Name of the Crop:</i></b>- Tobacco
+        \n
+        <b><i>Diseases:</i></b> <b><i>Fertilizers</i></b>
+        \n
+        1.FrogEye Leaf Spot  -Strobilurin Resistant Sprays
+        \n
+        2.Leaf Blight -Baking soda
+        \n
+        3.Anthracnosp -Neem Oil Sprays
+        \n
+        <b><i>Management:</i></b>
+        \n
+        Tobacco cannot withstand frost.\n
+        It starts withering at  a temperature about 35 degree centigrades.\n
+        Needs 50-100 cm of rainfall.
+
+    </string>
+
+        <string name="article_coconut">Coconut</string>
+        <string name="article_cocdescription">Description</string>
+        <string name="article_cocmanag">
+        <b><i>Name of the Crop:</i></b>- Coconut
+        \n
+        <b><i>Diseases:</i></b> <b><i>Fertilizers</i></b>
+        \n
+        1.Bud Rot -Removal of effective buds immediately
+        \n
+        2.Steam Bleeding -Benomyl
+        \n
+        3.Grey Leaf Blight -Broad Spectrum Fungicides
+        \n
+        <b><i>Management:</i></b>
+        \n
+         Cultivation of coconut requires substatial light.\n
+         Optimal temperature about 35 degree centigrades.\n
+         Rainfall is 1800-2500mm oer year.
+
+    </string>
+        <string name="article_rubber">Rubber</string>
+        <string name="article_rubdescription">Description</string>
+        <string name="article_rubmanag">
+        <b><i>Name of the Crop:</i></b>- Rubber
+        \n
+        <b><i>Diseases:</i></b> <b><i>Fertilizers</i></b>
+        \n
+        1.Powdery Mildew  -Sulphur and Copper Fungicides
+        \n
+        2.Leaf Blight -Baking soda
+        \n
+        3.Anthracnosp -Neem Oil Sprays
+        \n
+        <b><i>Management:</i></b>
+        \n
+        It requires high teamperature between 20-30degree centigrades.\n
+        We can withstand a low temperature of 15 degree centigrade.\n
+        Needs 200 cm of rainfall.
+
+    </string>
+        <string name="article_ground">Ground Nut</string>
+        <string name="article_grodescription">Description</string>
+        <string name="article_gromanag">
+        <b><i>Name of the Crop:</i></b>- Ground Nut
+        \n
+        <b><i>Diseases:</i></b> <b><i>Fertilizers</i></b>
+        \n
+        1.Alternate Leaf Spots  -Disinfect Pruning Shears
+        \n
+        2.GroundNut Rust -Resistive Breeding
+        \n
+        3.Root Knot -Low Tech Easy Soil Solarization
+        \n
+        <b><i>Management:</i></b>
+        \n
+        Rainfall and Temperature significantly effect ground nut production.\n
+        Ground Nut cannot withstand severe drought and frost.\n
+        Needs 600-1500 cm of rainfall.
+
+    </string>
+        <string name="article_tea">Tea</string>
+        <string name="article_teadescription">Description</string>
+        <string name="article_teamanag">
+        <b><i>Name of the Crop:</i></b>- Tea
+        \n
+        <b><i>Diseases:</i></b> <b><i>Fertilizers</i></b>
+        \n
+        1.Algol Leaf Spot  -Protective Fungicides
+        \n
+        2.Blister Blight -Foliar Or Systemic Fungicides
+        \n
+        3.Camellia Dieback and Cnker -Remove the Cankered Areas.
+        \n
+        <b><i>Management:</i></b>
+        \n
+        The lowest temperature for the growth of tea is 16 degree centigrades.\n
+        The soil should be rich in humus..\n
+        Needs 150-250 cm of rainfall.
+
+    </string>
+        <string name="article_chilli">Chilli</string>
+        <string name="article_chillidescription">Description</string>
+        <string name="article_chillimanag">
+        <b><i>Name of the Crop:</i></b>- Chilli
+        \n
+        <b><i>Diseases:</i></b> <b><i>Fertilizers</i></b>
+        \n
+        1.Leaf Lesions  -2.5gm of Manhozeb
+        \n
+        2.Bacteria Leaf Spot -Borbeaux Mixture
+        \n
+        3.Damping off -Seed Treatment with 3gm Captan
+        \n
+        <b><i>Management:</i></b>
+        \n
+        It is a rain fed crop and is succesptible to frost.\n
+        Temperature between 20 ti 25 degree centigrade  is ideal.\n
+        Needs 850-1200 cm of rainfall.
+
+    </string>
+        <string name="article_pea">Pea</string>
+        <string name="article_peadescription">Description</string>
+        <string name="article_peamanag">
+        <b><i>Name of the Crop:</i></b>- Pea
+        \n
+        <b><i>Diseases:</i></b> <b><i>Fertilizers</i></b>
+        \n
+        1.Downy Mildew  -Fungicide Treatement
+        \n
+        2.Marsh Spot -Manganese Spray
+        \n
+        3.Leaf and Pod Spots -Fungicides such as Azopsy Strabin + Metconazol
+        \n
+        <b><i>Management:</i></b>
+        \n
+        It is a cool season crop and grown in parts of the world.\n
+        Temperature between 13 ti 18 degree centigrade  is ideal.\n
+        Needs atleast 1656 cm of rainfall.
+
+    </string>
+        <string name="article_ragi">Ragi</string>
+        <string name="article_ragidescription">Description</string>
+        <string name="article_ragimanag">
+        <b><i>Name of the Crop:</i></b>- Ragi
+        \n
+        <b><i>Diseases:</i></b> <b><i>Fertilizers</i></b>
+        \n
+        1.Blast Disease -Rhizo Bacteria Treatement
+        \n
+        2.Cercospora Leaf Spot-Spraying of Cardendazim
+        \n
+        3.Green Year Disease -Proper Crop rotation
+        \n
+        <b><i>Management:</i></b>
+        \n
+        It requires a dry spell of rainnfall during grain ripening.\n
+        Average Temperature  is 27 degree centigrade.\n
+        Needs atleast 700 to 1200 mm of rainfall.
+
+    </string>
+        <string name="article_citrus">Citrus</string>
+        <string name="article_citrusdescription">Description</string>
+        <string name="article_citrusmanag">
+        <b><i>Name of the Crop:</i></b>- Citrus
+        \n
+        <b><i>Diseases:</i></b> <b><i>Fertilizers</i></b>
+        \n
+        1.Aphids -Spray with Bug Buster
+        \n
+        2.Orangelo Caterpillar-Spinosad Spray
+        \n
+        3.Brown soft scale -Hotty culture oiL
+        \n
+        <b><i>Management:</i></b>
+        \n
+        Citrus fruits require atleast 6 hours of sunlight everyday.\n
+        Sunlight is very important for the fruits to be  of good flavour and color.\n
+        Needs atleast 40 to 45 inches of rainfall.
+
+    </string>
+        <string name="article_bajra">Bajra</string>
+        <string name="article_bajradescription">Description</string>
+        <string name="article_bajramanag">
+        <b><i>Name of the Crop:</i></b>- Bajra
+        \n
+        <b><i>Diseases:</i></b> <b><i>Fertilizers</i></b>
+        \n
+        1.Cercospora Leaf Spot -Good sanitation and crop rotation
+        \n
+        2.Ergot-Hybridization and inoculation
+        \n
+        3.Rust -Prevent Proximity to solanaceous crops
+        \n
+        <b><i>Management:</i></b>
+        \n
+        Light showers of bright sunlight.\n
+        Ideal Temperature is 20 to 30 degree centigrades.\n
+        Needs atleast 40 to 75 cm of rainfall.
+
+    </string>
+    </resources>
+
